@@ -84,6 +84,8 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]]([)](https://www.figma.com/file/n6s4ebrwLdirTbFc4C0sEK/project-1%3AGym-locator?type=design&node-id=0%3A1&mode=design&t=01eBrQgn7b68hEQr-1)
+
+
 Creating a search engine that will help you locate gyms near your location
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
