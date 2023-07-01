@@ -98,6 +98,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - Miguel Conil - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: 
